@@ -2,7 +2,7 @@
 <img src="https://github.com/chupverse/.github/blob/main/profile/logoCHUP.png" width="250"> 
 </p>
 
-The [University Hospital of Poitiers (CHUP)](https://www.chu-poitiers.fr) is a public health establishment in the Vienne department in France. In conjunction with the Poitiers University, the CHUP combines care, research and innovation. The *chupverse* reposetory includes R packages for analyses of health data. It also includes examples of calculations of the required sample sizes, presentations proposed in the data science seminars, or LaTex templates.
+The [University Hospital of Poitiers (CHUP)](https://www.chu-poitiers.fr) is a public health establishment in the Vienne department in France. In conjunction with the Poitiers University, the CHUP combines care, research and innovation. The *chupverse* reposetory includes R packages for analyses of health data. We also share examples of estimations of sample size, presentations of speakers in the data science seminars, and $\(La)TeX$ templates.
 
 ## <img src="https://github.com/chupverse/.github/blob/main/profile/logoR.png" width="25"> packages
 * The library [survivalPLANN](https://github.com/chupverse/survivalPLANN) contains a variety of functions to construct a super learner in the presence of censored times-to-event and to evaluate its prognostic capacities.
