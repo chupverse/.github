@@ -1,4 +1,4 @@
-<img src="https://github.com/chupverse/.github/blob/main/profile/logo-chu-poitiers.png" width="400">
+<img src="https://github.com/chupverse/.github/blob/main/profile/logo-chu-poitiers.png" width="100">
 
 The [University Hospital of PoitiErs](https://www.chu-poitiers.fr) is the only public health establishment in the Vienne department to offer medical, surgical and obstetric care. The *chupverse* reposetory includes R packages for analyses of health data. It also includes examples of calculations of the required sample sizes, presentations proposed in the data science seminars, or LaTex templates.
 
