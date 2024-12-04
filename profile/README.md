@@ -18,5 +18,5 @@ The [University Hospital of Poitiers (CHUP)](https://www.chu-poitiers.fr) is a p
 * The repository [slides-of-seminars](https://github.com/chupverse/slides-of-seminars)  contains the slides of the invited speakers.
 
 ## $\(La)TeX$ templates
-* [Beamer presentation](https://github.com/chupverse/beamer-presentation)
-* [Latex article](https://github.com/chupverse/latex-article)
+* [A presentation with Beamer](https://github.com/chupverse/beamer-presentation)
+* [A manuscript with Latex](https://github.com/chupverse/latex-article)
