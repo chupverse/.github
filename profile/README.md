@@ -14,4 +14,4 @@ The [University Hospital of Poitiers (CHUP)](https://www.chu-poitiers.fr) is a p
 
 ## LaTex templates
 * [Beamer presentation](https://github.com/chupverse/beamer-presentation)
-* [Article](https://jobs.inria.fr/public/classic/en/latex-article)
+* [Latex article](https://github.com/chupverse/latex-article)
