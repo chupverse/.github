@@ -10,7 +10,7 @@ The [University Hospital of Poitiers (CHUP)](https://www.chu-poitiers.fr) is a p
 * The repository [sample-size](https://github.com/chupverse/sample-size) page is devoted to the calculation of the number of patients required for several studies such as an randomized clinical trial (RCT) for causal inference or a cohort for constructing or validating a predictive tool. R codes are proposed. We can click [here](https://poitiers-health-data.shinyapps.io/SampleSize/) to access to the related R-shiny website for an user-friendly interface.
 
 ## Presentations performed during the data science seminars
-* The repository [slides-of-seminars]([https://github.com/chupverse/survivalSL](https://github.com/chupverse/slides-of-seminars)  contains the slides of the invited speakers.
+* The repository [slides-of-seminars](https://github.com/chupverse/slides-of-seminars)  contains the slides of the invited speakers.
 
 ## LaTex templates
 * [Beamer presentation](https://github.com/chupverse/beamer-presentation)
